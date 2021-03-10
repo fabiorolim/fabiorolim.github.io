@@ -1,0 +1,19 @@
+name: Fábio Rolim
+description: Blog - Um exercício de autoexpressão
+meta_description: "Um exercicio de autoexpressão"
+
+markdown: kramdown
+highlighter: rouge
+logo: false
+paginate: 10
+baseurl: /
+domain_name: "http://fabiorolim.github.io"
+# google_analytics: "UA-XXXXXXXX-X"
+plugins: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url: ""
+author: "Fábio Rolim"
+
+# Disqus config
+disqus-shortname: ""
