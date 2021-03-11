@@ -6,7 +6,9 @@ categories: Desenvolvimento Arquitetura Design
 ---
 
 
-### No mundo dev Sempre ouvimos falar em **arquitetura** e **design**, mas você sabe o que esses termos significam ? 
+#### Você sabe o que esses termos significam ? 
+
+
 
 Bom, se você já leu sobre isso antes, deve saber o quanto esses termos são debatidos.
  
