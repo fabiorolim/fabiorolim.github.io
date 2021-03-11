@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Design e Arquiterura de Sistemas"
+title:  "Design e Arquiterura"
 date:   2021-03-10 22:23:00
 categories: Desenvolvimento Arquitetura Design 
 ---
 
 
-#### Você sabe o que esses termos significam ? 
+#### Vamos refletir sobre esses termos ? 
 
 
 
